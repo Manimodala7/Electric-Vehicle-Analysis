@@ -41,3 +41,20 @@ To analyze the Indian electric and hybrid vehicle market using real-world data a
 
 ---
 
+## Maker's Performance Page
+![image](https://github.com/user-attachments/assets/971a1b97-59e8-4285-be0d-418ae202c571)
+Analyzed India’s top EV manufacturers based on CAGR, EV sales trends, and market share. Ola Electric and TVS led in EV CAGR (373% and 330%). The dashboard also shows monthly and quarterly sales patterns from 2022–2024, helping identify top performers and sales seasonality.
+
+---
+
+
+## State's Performance Page
+![image](https://github.com/user-attachments/assets/6757241d-6e6b-4a60-9a32-e58443b15760)
+This section highlights EV adoption across Indian states. Gujarat and Maharashtra lead in CAGR, while Maharashtra and Karnataka dominate sales. 2030 projections show Kerala and Gujarat with the highest growth rates, indicating emerging markets for EV expansion.
+
+---
+
+
+## Key Insights Page
+![image](https://github.com/user-attachments/assets/4e0317c9-9f0b-4405-993e-8ec58f90be2b)
+EV 2-wheeler demand is booming, led by Ola, TVS, and Ather. Maharashtra, Karnataka, and Gujarat show major sales and revenue growth potential. However, regions like Ladakh and Andaman lag in EV adoption. Notably, BMW India and Bajaj recorded exceptional EV CAGR, while some brands show stagnation or decline.
